@@ -11,6 +11,10 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-02-28
+  - https://www.twitch.tv/videos/933518049
+* 2021-02-27
+  - https://www.twitch.tv/videos/933518048
 * 2021-02-26
   - https://www.twitch.tv/videos/929817373
 * 2021-02-24
@@ -95,6 +99,10 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/929817371
 * How I use neural networks to classify rather than predict price
   - https://www.twitch.tv/videos/929817369
+* Updating Impresario to Alpaca v2 data API
+  - https://www.twitch.tv/videos/933518045
+* Updating Impresario to Alpaca v2 realtime websockets
+  - https://www.twitch.tv/videos/933518047
 
 Computer Science
 --
