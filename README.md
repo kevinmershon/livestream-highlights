@@ -13,6 +13,7 @@ Stream Recaps
   - https://www.twitch.tv/videos/923955644
 * 2021-02-28
   - https://www.twitch.tv/videos/933518049
+  - https://www.twitch.tv/videos/933553246
 * 2021-02-27
   - https://www.twitch.tv/videos/933518048
 * 2021-02-26
@@ -103,6 +104,9 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/933518045
 * Updating Impresario to Alpaca v2 realtime websockets
   - https://www.twitch.tv/videos/933518047
+  - https://www.twitch.tv/videos/933553247
+* Refactoring Ameritrade analytics/schedules
+  - https://www.twitch.tv/videos/933563830
 
 Computer Science
 --
