@@ -11,6 +11,10 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-02
+  - https://www.twitch.tv/videos/936355715
+* 2021-03-01
+  - https://www.twitch.tv/videos/936325390
 * 2021-02-28
   - https://www.twitch.tv/videos/933518049
   - https://www.twitch.tv/videos/933553246
@@ -75,6 +79,12 @@ Clojure
   - https://www.twitch.tv/videos/929817372
 * Writing some file-based cache loader for consuming EDN data
   - https://www.twitch.tv/videos/929817558
+* Building an experimental "loss carving" scheduled job
+  - https://www.twitch.tv/videos/936325391
+* Building Kraken websocket subscription manager
+  - https://www.twitch.tv/videos/936355716
+* Thoughts on keywords, spec, protocols, defmethods in Clojure
+  - https://www.twitch.tv/videos/936355718
 
 Algotrading / Impresario
 --
@@ -134,6 +144,8 @@ Computer Science
   - https://www.twitch.tv/videos/928741230
 * Thoughts about "homework challenges" for interviewing
   - https://www.twitch.tv/videos/928741227
+* Architecture diagram for clustering options
+  - https://www.twitch.tv/videos/936325389
 
 Entrepreneurship
 --
