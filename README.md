@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-04
+  - https://www.twitch.tv/videos/938468835
 * 2021-03-03
   - https://www.twitch.tv/videos/937610454
 * 2021-03-02
@@ -112,6 +114,7 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/929817371
 * How I use neural networks to classify rather than predict price
   - https://www.twitch.tv/videos/929817369
+  - https://www.twitch.tv/videos/938468837
 * Updating Impresario to Alpaca v2 data API
   - https://www.twitch.tv/videos/933518045
 * Updating Impresario to Alpaca v2 realtime websockets
@@ -207,6 +210,8 @@ Trading (general)
 
 Old Man Tales
 --
+* The story of Dan
+  - https://www.twitch.tv/videos/910100079
 * How I got my first job as a software engineer
   - https://www.twitch.tv/videos/929817368
 * Thoughts on becoming a integrations or data engineer
