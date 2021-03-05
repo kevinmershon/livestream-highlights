@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-03
+  - https://www.twitch.tv/videos/937610454
 * 2021-03-02
   - https://www.twitch.tv/videos/936355715
 * 2021-03-01
@@ -117,6 +119,8 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/933553247
 * Refactoring Ameritrade analytics/schedules
   - https://www.twitch.tv/videos/933563830
+* Neural network based momentum trading would be hard to build
+  - https://www.twitch.tv/videos/937610456
 
 Computer Science
 --
@@ -146,6 +150,8 @@ Computer Science
   - https://www.twitch.tv/videos/928741227
 * Architecture diagram for clustering options
   - https://www.twitch.tv/videos/936325389
+* To learn coding, start with Javascript in the browser
+  - https://www.twitch.tv/videos/937610455
 
 Entrepreneurship
 --
@@ -161,6 +167,43 @@ Entrepreneurship
   - https://www.twitch.tv/videos/924872883
 * Thoughts on the need for experimentation in software engineering
   - https://www.twitch.tv/videos/924872878
+
+Trading (general)
+--
+* Why you have to short AND long
+  - https://www.twitch.tv/videos/901733254
+* Reward-to-risk calculation and methodology
+  - https://www.twitch.tv/videos/902522914
+* Sentiment analysis, ThetaGang, and GameStop
+  - https://www.twitch.tv/videos/903065574
+* Rationale of reward-to-risk, big/small wins/losses
+  - https://www.twitch.tv/videos/903065568
+* Visualizing peaks and troughs, and future biasing issues
+  - https://www.twitch.tv/videos/906789139
+* The history of algotrading, and how I learned trading
+  - https://www.twitch.tv/videos/906826330
+* Simple vs Complex trading strategies
+  - https://www.twitch.tv/videos/910798329
+* Do small time traders have advantages over large ones?
+  - https://www.twitch.tv/videos/910798325
+* When to long, levels being respected, and revenge trading
+  - https://www.twitch.tv/videos/911812604
+* Why I usually short Ethereum and long Bitcoin
+  - https://www.twitch.tv/videos/919520173
+* Mean reversion, and "wrong, before right"
+  - https://www.twitch.tv/videos/920790761
+* Using a trade journal for manual trading
+  - https://www.twitch.tv/videos/924872881
+* Thought experiment on trimming/carving losses
+  - https://www.twitch.tv/videos/928741228
+* Why support/resistance works, examining reward/risk
+  - https://www.twitch.tv/videos/937610451
+* Social media is full of fake sentiment
+  - https://www.twitch.tv/videos/937610453
+* Reviewing horizontal support/resistance
+  - https://www.twitch.tv/videos/937610457
+* Reviewing liquidity gaps and spinning tops
+  - https://www.twitch.tv/videos/937610458
 
 Old Man Tales
 --
