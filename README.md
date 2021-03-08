@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-05
+  - https://www.twitch.tv/videos/941253704
 * 2021-03-04
   - https://www.twitch.tv/videos/938468835
 * 2021-03-03
@@ -124,6 +126,8 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/933563830
 * Neural network based momentum trading would be hard to build
   - https://www.twitch.tv/videos/937610456
+* Answering questions about Impresario, picking new stocks
+  - https://www.twitch.tv/videos/941253703
 
 Computer Science
 --
@@ -207,6 +211,8 @@ Trading (general)
   - https://www.twitch.tv/videos/937610457
 * Reviewing liquidity gaps and spinning tops
   - https://www.twitch.tv/videos/937610458
+* Discussing other forms of investment
+  - https://www.twitch.tv/videos/941253705
 
 Old Man Tales
 --
