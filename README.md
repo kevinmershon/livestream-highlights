@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-07
+  - https://www.twitch.tv/videos/942300336
 * 2021-03-05
   - https://www.twitch.tv/videos/941253704
 * 2021-03-04
