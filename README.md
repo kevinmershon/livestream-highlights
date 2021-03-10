@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-08
+  - https://www.twitch.tv/videos/943794931
 * 2021-03-07
   - https://www.twitch.tv/videos/942300336
 * 2021-03-05
@@ -130,6 +132,8 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/937610456
 * Answering questions about Impresario, picking new stocks
   - https://www.twitch.tv/videos/941253703
+* Sizing positions, ramping leverage, alpha, deployment
+  - https://www.twitch.tv/videos/943794933
 
 Computer Science
 --
