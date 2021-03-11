@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-09
+  - https://www.twitch.tv/videos/944723515
 * 2021-03-08
   - https://www.twitch.tv/videos/943794931
 * 2021-03-07
@@ -95,6 +97,10 @@ Clojure
   - https://www.twitch.tv/videos/936355716
 * Thoughts on keywords, spec, protocols, defmethods in Clojure
   - https://www.twitch.tv/videos/936355718
+* Fixing chart off-by-one bug with positions line
+  - https://www.twitch.tv/videos/944723511
+* Implementing auto-refreshing account trader balance charts
+  - https://www.twitch.tv/videos/944723514
 
 Algotrading / Impresario
 --
@@ -228,3 +234,5 @@ Old Man Tales
   - https://www.twitch.tv/videos/929817368
 * Thoughts on becoming a integrations or data engineer
   - https://www.twitch.tv/videos/929817370
+* 3X leveraged ETFs and how Wall Street sees retail investors
+  - https://www.twitch.tv/videos/944723517
