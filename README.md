@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-10
+  - https://www.twitch.tv/videos/945823468
 * 2021-03-09
   - https://www.twitch.tv/videos/944723515
 * 2021-03-08
@@ -140,6 +142,13 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/941253703
 * Sizing positions, ramping leverage, alpha, deployment
   - https://www.twitch.tv/videos/943794933
+* Fixing stop volume off-by-one bug
+  - https://www.twitch.tv/videos/945823463
+* Adjusting profit taking strategy
+  - https://www.twitch.tv/videos/945823466 (part 1)
+  - https://www.twitch.tv/videos/945823465 (part 2)
+* Y'all, account history, trading as poker, biasing in backtesting
+  - https://www.twitch.tv/videos/945823464
 
 Computer Science
 --
@@ -171,6 +180,8 @@ Computer Science
   - https://www.twitch.tv/videos/936325389
 * To learn coding, start with Javascript in the browser
   - https://www.twitch.tv/videos/937610455
+* Software Engineering vs. Computer Science
+  - https://www.twitch.tv/videos/945823467
 
 Entrepreneurship
 --
