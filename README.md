@@ -11,6 +11,8 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-11
+  - https://www.twitch.tv/videos/947001860
 * 2021-03-10
   - https://www.twitch.tv/videos/945823468
 * 2021-03-09
@@ -149,6 +151,11 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/945823465 (part 2)
 * Y'all, account history, trading as poker, biasing in backtesting
   - https://www.twitch.tv/videos/945823464
+* Squashing a couple bugs, giving a simple explanation of Impresario
+  - https://www.twitch.tv/videos/947245016
+* Fixing the websocket connectivity bug
+  - https://www.twitch.tv/videos/947245021 (part 1)
+  - https://www.twitch.tv/videos/947245018 (part 2)
 
 Computer Science
 --
@@ -197,6 +204,8 @@ Entrepreneurship
   - https://www.twitch.tv/videos/924872883
 * Thoughts on the need for experimentation in software engineering
   - https://www.twitch.tv/videos/924872878
+* What I've gotten out of streaming
+  - https://www.twitch.tv/videos/947245020
 
 Trading (general)
 --
@@ -236,6 +245,10 @@ Trading (general)
   - https://www.twitch.tv/videos/937610458
 * Discussing other forms of investment
   - https://www.twitch.tv/videos/941253705
+* What I mean by "locked in-profit"
+  - https://www.twitch.tv/videos/947001861
+* My money printer makes my accounting ledger too busy
+  - https://www.twitch.tv/videos/947245015
 
 Old Man Tales
 --
