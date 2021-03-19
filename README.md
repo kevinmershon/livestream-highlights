@@ -11,6 +11,16 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-17
+  - https://www.twitch.tv/videos/954859825
+* 2021-03-16
+  - https://www.twitch.tv/videos/954841342
+* 2021-03-15
+  - https://www.twitch.tv/videos/954826369
+* 2021-03-14
+  - https://www.twitch.tv/videos/950818894
+* 2021-03-13
+  - https://www.twitch.tv/videos/949716983
 * 2021-03-11
   - https://www.twitch.tv/videos/947001860
 * 2021-03-10
@@ -156,6 +166,18 @@ Algotrading / Impresario
 * Fixing the websocket connectivity bug
   - https://www.twitch.tv/videos/947245021 (part 1)
   - https://www.twitch.tv/videos/947245018 (part 2)
+* Fixing Kraken multi trade-plan loader
+  - https://www.twitch.tv/videos/949716987
+* Prototyping Impresario node announcement topics/structures
+  - https://www.twitch.tv/videos/950818897
+* Frustrations with Kafka "ketu" library and Docker
+  - https://www.twitch.tv/videos/954826370
+* Starting to build NN notifications over Kafka
+  - https://www.twitch.tv/videos/954841343
+* Predicting positions to close, examining positions opened
+  - https://www.twitch.tv/videos/954859826
+* Figuring out my NN messaging flows
+  - https://www.twitch.tv/videos/954859827
 
 Computer Science
 --
@@ -189,6 +211,10 @@ Computer Science
   - https://www.twitch.tv/videos/937610455
 * Software Engineering vs. Computer Science
   - https://www.twitch.tv/videos/945823467
+* Open source that I've done
+  - https://www.twitch.tv/videos/949716984
+* Setting up a Docker Kafka environment
+  - https://www.twitch.tv/videos/949716986
 
 Entrepreneurship
 --
@@ -206,6 +232,8 @@ Entrepreneurship
   - https://www.twitch.tv/videos/924872878
 * What I've gotten out of streaming
   - https://www.twitch.tv/videos/947245020
+* Thoughts on Enterprise vs Startups, Custom Software consulting businesses
+  - https://www.twitch.tv/videos/954826372
 
 Trading (general)
 --
@@ -249,6 +277,8 @@ Trading (general)
   - https://www.twitch.tv/videos/947001861
 * My money printer makes my accounting ledger too busy
   - https://www.twitch.tv/videos/947245015
+* Trading, done right, is kind of boring
+  - https://www.twitch.tv/videos/954859828
 
 Old Man Tales
 --
