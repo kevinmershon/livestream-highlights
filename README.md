@@ -11,6 +11,12 @@ Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2021-03-22
+  - https://www.twitch.tv/videos/960588855
+* 2021-03-19
+  - https://www.twitch.tv/videos/960574919
+* 2021-03-18
+  - https://www.twitch.tv/videos/960474740
 * 2021-03-17
   - https://www.twitch.tv/videos/954859825
 * 2021-03-16
@@ -178,6 +184,20 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/954859826
 * Figuring out my NN messaging flows
   - https://www.twitch.tv/videos/954859827
+* Summarizing 2 bugs, neural network training
+  - https://www.twitch.tv/videos/960474741
+* Fixing peaks/troughs job to purge previous values
+  - https://www.twitch.tv/videos/960474742
+* Fixing query to purge hourly trader balance data
+  - https://www.twitch.tv/videos/960474743
+* Adding Week/Month/Year options to trader balance chart
+  - https://www.twitch.tv/videos/960574918
+* Summarizing new method for handling WS keepalive
+  - https://www.twitch.tv/videos/960574920
+* Revising NN prune to only NNs with 3+ signals
+  - https://www.twitch.tv/videos/960588856
+* Investigating and fixing CLX high-price PT block bug
+  - https://www.twitch.tv/videos/960588857
 
 Computer Science
 --
