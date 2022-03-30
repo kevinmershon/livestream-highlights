@@ -1,16 +1,30 @@
 LiveStream Highlights
 ==
 
-It occurred to me that Twitch's videos index for live stream highlights and
-clips is pretty weak, so I've decided to create a manual (for now) index of the
-content I have preserved demonstrating my insight and knowledge in the areas of
-Clojure, computer science, software engineering, entrepreneurship, etc. Please
-enjoy.
+Twitch's videos index for live stream highlights and clips is pretty weak, so
+I've decided to create a manual index of the content I have preserved
+demonstrating my insight and knowledge in the areas of Clojure, computer
+science, software engineering, entrepreneurship, etc. Please enjoy.
+
+Patreon
+== 
+
+If you are interested in supporting my work, please watch 
+[this video](https://www.twitch.tv/videos/1436596998) and consider becoming a
+Patron at [patreon.com/codingandcoffee](https://www.patreon.com/codingandcoffee)
 
 Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2022-03-30
+  - https://www.twitch.tv/videos/1441502563
+* 2022-03-29
+  - https://www.twitch.tv/videos/1441482781
+  - https://www.twitch.tv/videos/1441482781 (addendum)
+* 2022-03-22
+  - https://www.twitch.tv/videos/1436596994
+* year long hiatus from regular streaming
 * 2021-03-22
   - https://www.twitch.tv/videos/960588855
 * 2021-03-19
@@ -121,6 +135,10 @@ Clojure
   - https://www.twitch.tv/videos/944723511
 * Implementing auto-refreshing account trader balance charts
   - https://www.twitch.tv/videos/944723514
+* Improving Discord notifications for Patreon Patrons
+  - https://www.twitch.tv/videos/1436596996
+* Submitting a PR for scicloj.ml
+  - https://www.twitch.tv/videos/1441502564
 
 Algotrading / Impresario
 --
@@ -198,6 +216,12 @@ Algotrading / Impresario
   - https://www.twitch.tv/videos/960588856
 * Investigating and fixing CLX high-price PT block bug
   - https://www.twitch.tv/videos/960588857
+* Plans for Impresario's future, recent improvements
+  - https://www.twitch.tv/videos/1436596995
+* How can you benefit from Impresario too?
+  - https://www.twitch.tv/videos/1436596998
+* How streaming event processing might kill performance
+  - https://www.twitch.tv/videos/1441502567
 
 Computer Science
 --
@@ -299,6 +323,11 @@ Trading (general)
   - https://www.twitch.tv/videos/947245015
 * Trading, done right, is kind of boring
   - https://www.twitch.tv/videos/954859828
+* I've missed streaming, talking about VinoVest
+  - https://www.twitch.tv/videos/1436596997
+  - BTW the VinoVest URL is actually https://vinovest.co not `.com`
+* Forex Reward/Risk technicals
+  - https://www.twitch.tv/videos/1441502563
 
 Old Man Tales
 --
