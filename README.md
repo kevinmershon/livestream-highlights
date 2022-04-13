@@ -6,17 +6,28 @@ I've decided to create a manual index of the content I have preserved
 demonstrating my insight and knowledge in the areas of Clojure, computer
 science, software engineering, entrepreneurship, etc. Please enjoy.
 
-Patreon
-== 
+Twitch Schedule
+==
 
-If you are interested in supporting my work, please watch 
-[this video](https://www.twitch.tv/videos/1436596998) and consider becoming a
-Patron at [patreon.com/codingandcoffee](https://www.patreon.com/codingandcoffee)
+I stream somewhat irregularly on Twitch.tv at
+[https://twitch.tv/codingandcoffee](twitch.tv/CodingAndCoffee) (pretty much
+exclusively weekdays during Stock Market hours.
+
+Patreon
+==
+
+If you are interested in supporting my work or want to trade with me using my
+neural network signals, please watch [this
+video](https://www.twitch.tv/videos/1436596998) and consider becoming a Patron
+at [patreon.com/codingandcoffee](https://www.patreon.com/codingandcoffee)
+or alternatively a Twitch subscriber.
 
 Stream Recaps
 --
 * Channel Trailer
   - https://www.twitch.tv/videos/923955644
+* 2022-04-13
+  - https://www.twitch.tv/videos/1455052624
 * 2022-03-30
   - https://www.twitch.tv/videos/1441502563
 * 2022-03-29
