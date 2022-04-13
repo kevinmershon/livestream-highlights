@@ -10,7 +10,7 @@ Twitch Schedule
 ==
 
 I stream somewhat irregularly on Twitch.tv at
-[https://twitch.tv/codingandcoffee](twitch.tv/CodingAndCoffee) (pretty much
+[twitch.tv/codingandcoffee](https://twitch.tv/CodingAndCoffee) (pretty much
 exclusively weekdays during Stock Market hours.
 
 Patreon
