@@ -1,5 +1,27 @@
-LiveStream Highlights
+About Me
 ==
+My name is Kevin and I am a profitable algo-trader.
+
+Copy-Trading me
+--
+I recently released an open-source
+[copy-trader](https://github.com/kevinmershon/copy-trader) application which you
+may find interesting.
+
+Patreon
+--
+
+If you are interested in supporting my work or want to trade with me using my
+neural network signals, please watch [this
+video](https://www.twitch.tv/videos/1436596998) and consider becoming a Patron
+at [patreon.com/codingandcoffee](https://www.patreon.com/codingandcoffee)
+or alternatively a Twitch subscriber.
+
+Twitch Channel
+==
+
+LiveStream Highlights
+--
 
 Twitch's videos index for live stream highlights and clips is pretty weak, so
 I've decided to create a manual index of the content I have preserved
@@ -7,20 +29,11 @@ demonstrating my insight and knowledge in the areas of Clojure, computer
 science, software engineering, entrepreneurship, etc. Please enjoy.
 
 Twitch Schedule
-==
+--
 
 I stream somewhat irregularly on Twitch.tv at
 [twitch.tv/codingandcoffee](https://twitch.tv/CodingAndCoffee) (pretty much
 exclusively weekdays during Stock Market hours.
-
-Patreon
-==
-
-If you are interested in supporting my work or want to trade with me using my
-neural network signals, please watch [this
-video](https://www.twitch.tv/videos/1436596998) and consider becoming a Patron
-at [patreon.com/codingandcoffee](https://www.patreon.com/codingandcoffee)
-or alternatively a Twitch subscriber.
 
 Stream Recaps
 --
