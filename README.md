@@ -32,7 +32,7 @@ Twitch Schedule
 --
 
 I stream somewhat irregularly on Twitch.tv at
-[twitch.tv/codingandcoffee](https://twitch.tv/CodingAndCoffee) (pretty much
+[twitch.tv/codingandcoffee](https://twitch.tv/CodingAndCoffee) pretty much
 exclusively weekdays during Stock Market hours.
 
 Stream Recaps
