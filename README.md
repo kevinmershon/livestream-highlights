@@ -28,10 +28,16 @@ I've decided to create a manual index of the content I have preserved
 demonstrating my insight and knowledge in the areas of Clojure, computer
 science, software engineering, entrepreneurship, etc. Please enjoy.
 
+Unpublished videos
+--
+A number of my previously available videos give away too much of the proprietary
+implementation of how my trading system works. As a result, those videos are no
+longer available for viewing. Sorry for any inconvenience this may cause.
+
 Twitch Schedule
 --
 
-I stream somewhat irregularly on Twitch.tv at
+I stream irregularly on Twitch.tv at
 [twitch.tv/codingandcoffee](https://twitch.tv/CodingAndCoffee) pretty much
 exclusively weekdays during Stock Market hours.
 
@@ -78,7 +84,7 @@ Stream Recaps
 * 2021-03-05
   - https://www.twitch.tv/videos/941253704
 * 2021-03-04
-  - https://www.twitch.tv/videos/938468835
+  - `https://www.twitch.tv/videos/938468835` -- Unpublished*
 * 2021-03-03
   - https://www.twitch.tv/videos/937610454
 * 2021-03-02
@@ -107,18 +113,18 @@ Stream Recaps
 * 2021-02-17
   - https://www.twitch.tv/videos/919625007
 * 2021-02-13
-  - https://www.twitch.tv/videos/914751175
+  - `https://www.twitch.tv/videos/914751175` -- Unpublished*
 * 2021-02-12
   - https://www.twitch.tv/videos/913483063
 
 Clojure
 --
 * How I got into Clojure, and when to use a different language
-  - https://www.twitch.tv/videos/902522913
+  - `https://www.twitch.tv/videos/902522913` -- Unpublished*
 * Clojure performance vs Java, use of Yesql query writing
   - https://www.twitch.tv/videos/905507859
 * Refactoring in Clojure to add nil-safety, using pre/post checks
-  - https://www.twitch.tv/videos/907869541
+  - `https://www.twitch.tv/videos/907869541` -- Unpublished*
 * Tip about wordy/overly-precise comments ending up wrong after refactoring
   - https://www.twitch.tv/videos/910728715
 * Clojure example methods for getting keys out of maps
@@ -177,7 +183,7 @@ Algotrading / Impresario
 * Why you should (probably) use Python for ML/algotrading
   - https://www.twitch.tv/videos/910798330
 * Shuffling, noising, and randomizing neural training data
-  - https://www.twitch.tv/videos/910798322
+  - `https://www.twitch.tv/videos/910798322` -- Unpublished*
 * Thoughts on improvements for classification neural networks
   - https://www.twitch.tv/videos/920790765
 * Thoughts/ideas of running on VPS vs Mac M1 hardware
@@ -185,17 +191,17 @@ Algotrading / Impresario
 * Advice to new algotraders
   - https://www.twitch.tv/videos/927575565
 * Problems with Gekko (open source algotrading platform)
-  - https://www.twitch.tv/videos/929817371
+  - `https://www.twitch.tv/videos/929817371` -- Unpublished*
 * How I use neural networks to classify rather than predict price
-  - https://www.twitch.tv/videos/929817369
-  - https://www.twitch.tv/videos/938468837
+  - `https://www.twitch.tv/videos/929817369` -- Unpublished*
+  - `https://www.twitch.tv/videos/938468837` -- Unpublished*
 * Updating Impresario to Alpaca v2 data API
   - https://www.twitch.tv/videos/933518045
 * Updating Impresario to Alpaca v2 realtime websockets
   - https://www.twitch.tv/videos/933518047
   - https://www.twitch.tv/videos/933553247
 * Refactoring Ameritrade analytics/schedules
-  - https://www.twitch.tv/videos/933563830
+  - `https://www.twitch.tv/videos/933563830` -- Unpublished*
 * Neural network based momentum trading would be hard to build
   - https://www.twitch.tv/videos/937610456
 * Answering questions about Impresario, picking new stocks
@@ -210,7 +216,7 @@ Algotrading / Impresario
 * Y'all, account history, trading as poker, biasing in backtesting
   - https://www.twitch.tv/videos/945823464
 * Squashing a couple bugs, giving a simple explanation of Impresario
-  - https://www.twitch.tv/videos/947245016
+  - `https://www.twitch.tv/videos/947245016` -- Unpublished*
 * Fixing the websocket connectivity bug
   - https://www.twitch.tv/videos/947245021 (part 1)
   - https://www.twitch.tv/videos/947245018 (part 2)
@@ -225,9 +231,9 @@ Algotrading / Impresario
 * Predicting positions to close, examining positions opened
   - https://www.twitch.tv/videos/954859826
 * Figuring out my NN messaging flows
-  - https://www.twitch.tv/videos/954859827
+  - `https://www.twitch.tv/videos/954859827` -- Unpublished*
 * Summarizing 2 bugs, neural network training
-  - https://www.twitch.tv/videos/960474741
+  - `https://www.twitch.tv/videos/960474741` -- Unpublished*
 * Fixing peaks/troughs job to purge previous values
   - https://www.twitch.tv/videos/960474742
 * Fixing query to purge hourly trader balance data
@@ -256,11 +262,11 @@ Computer Science
 * Discussion of neural network training
   - https://www.twitch.tv/videos/903065565
 * Starting simple with neural network design
-  - https://www.twitch.tv/videos/903065575
+  - `https://www.twitch.tv/videos/903065575` -- Unpublished*
 * Using naming conventions to hint at implementation
-  - https://www.twitch.tv/videos/906789134
-* Avoid blindingly committing whitespace changes
-  - https://www.twitch.tv/videos/906789138
+  - `https://www.twitch.tv/videos/906789134` -- Unpublished*
+* Avoid blindly committing whitespace changes
+  - `https://www.twitch.tv/videos/906789138` -- Unpublished*
 * Using git, squash, and rebase to rewrite history
   - https://www.twitch.tv/videos/906825997
 * Discussion of always trying to use bleeding-edge/latest libraries
